@@ -1,6 +1,10 @@
 # SRXDcustomBG
 A collection of template SRTB files with backgrounds. Works just like the original basic custom files.
 
+## Screenshots
+
+https://github.com/LavenderTheGreat/SRXDcustomBG/issues/1
+
 ## FAQ
 
 - **Won't the editor just save over these?** - Apparently not.
