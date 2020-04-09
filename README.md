@@ -13,4 +13,8 @@ https://github.com/LavenderTheGreat/SRXDcustomBG/issues/1
 
 - **Where is the background for X???** - Please refer to this gist: https://gist.github.com/LavenderTheGreat/608cbf5eee9665e59b842167becffde2
 
-- **How do audio responsive backgrounds work?** - Razorsharp and I presume Inject too are note responsive, however New Year reacts to audio. Transitions are abitrary.
+- **How do audio responsive backgrounds work?** - Razorsharp is note responsive, however New Year and Inject react to audio. Transitions are abitrary.
+
+## Notes/Interest
+
+- SunSurface is beta Inject, same with SandCrystals being possibly early SandCrystalsAfternoon. SunSurface is lower quality on sun bits but doesn't cycle beyond it.
