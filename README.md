@@ -18,3 +18,7 @@ https://github.com/LavenderTheGreat/SRXDcustomBG/issues/1
 ## Notes/Interest
 
 - SunSurface is beta Inject, same with SandCrystals being possibly early SandCrystalsAfternoon. SunSurface is lower quality on sun bits but doesn't cycle beyond it.
+
+- Gold objects in DarkSandCrystals Expert/XD clip through the camera ALWAYS.
+
+- The XD bundle backgrounds also have clipping issues through the ceiling.
